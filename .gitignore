@@ -4,3 +4,4 @@ dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/*.project #忽略根目录下Hbuilder自动生成的.project文件
